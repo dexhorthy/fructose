@@ -1,5 +1,6 @@
 fructose
 =========
+[![Build Status](https://travis-ci.org/horthy/fructose.svg?branch=master)](https://travis-ci.org/horthy/fructose)
 
 A questionably useful, borderline obnoxious collection of convenience methods for building higher-order functions in Java 8.
 
@@ -155,7 +156,7 @@ Stream.of(
         .forEach(Consumers.accepting(new Date());
 // Output:
 // Sun Jun 12 13:42:46 PDT 2016
-// Todays date is Sun Jun 12 13:42:46 PDT 2016
+// Today's date is Sun Jun 12 13:42:46 PDT 2016
 ```
 
 ###### Mapping a stream of maps? Yessiree
@@ -236,13 +237,13 @@ FAQ
 
 > Whyyyyyyy!?
 
-There are a few real-world applications below the examples section.
+There are a few real-world applications below the FAQ section.
 
 > Is this a joke?
 
 Mostly.
 
-> I have yak that needs shaving.
+> I have a yak that needs shaving.
 
 I'm your guy.
 
